@@ -128,7 +128,7 @@ export const projects: Project[] = [
     title: "EventBazzarin",
     description: "Event and Restaurant Booking Platform with microservices architecture",
     techStack: ["ReactJS", "TypeScript", "Vite", "SpringBoot", "Java", "Firebase", "MongoDB", "Kafka", "Event-driven Architecture"],
-    liveUrl: "https://eventbazarin.com",
+    liveUrl: "https://eventbazzarin.com",
     githubUrl: "https://github.com/karthikpeddi21032002",
     highlights: [
       "Users can explore and book events like home-hosted gatherings, fake weddings, parties, and restaurant experiences",
