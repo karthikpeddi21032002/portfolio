@@ -84,8 +84,7 @@ karthiks-ai-driven-dev/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/karthikpeddi21032002/karthiks-ai-driven-dev.git
-cd karthiks-ai-driven-dev
+git clone https://github.com/karthikpeddi21032002/portfolio
 ```
 
 2. Install dependencies:
@@ -102,7 +101,7 @@ npm install
 npm run dev
 ```
 
-5. Open [http://localhost:5173](http://localhost:5173) in your browser
+5. Open [http://localhost:8080](http://localhost:8080) in your browser
 
 ### Building for Production
 
